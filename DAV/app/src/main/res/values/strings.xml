@@ -1,0 +1,742 @@
+<resources>
+    <string name="app_name">Davians</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="house_color">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Brown</item>
+        <item>White</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="business_category_search">
+        <item>All Categories</item>
+        <item>Management</item>
+        <item>Business and Financial Operations</item>
+        <item>Computer and Mathematical</item>
+        <item>Architecture and Engineering</item>
+        <item>Life, Physical, and Social Science</item>
+        <item>Community and Social Service</item>
+        <item>Legal</item>
+        <item>Education, Training, and Library</item>
+        <item>Arts, Design, Entertainment, Sports, and Media</item>
+        <item>Healthcare Practitioners and Technical</item>
+        <item>Healthcare Support</item>
+        <item>Protective Service</item>
+        <item>Food Preparation and Serving Related</item>
+        <item>Building and Grounds Cleaning and Maintenance</item>
+        <item>Personal Care and Service</item>
+        <item>Sales and Related</item>
+        <item>Office and Administrative Support</item>
+        <item>Farming, Fishing, and Forestry</item>
+        <item>Construction and Extraction</item>
+        <item>Installation, Maintenance, and Repair</item>
+        <item>Production</item>
+        <item>Transportation and Material Moving</item>
+    </string-array>
+    <string-array name="business_category">
+        <item>Management</item>
+        <item>Business and Financial Operations</item>
+        <item>Computer and Mathematical</item>
+        <item>Architecture and Engineering</item>
+        <item>Life, Physical, and Social Science</item>
+        <item>Community and Social Service</item>
+        <item>Legal</item>
+        <item>Education, Training, and Library</item>
+        <item>Arts, Design, Entertainment, Sports, and Media</item>
+        <item>Healthcare Practitioners and Technical</item>
+        <item>Healthcare Support</item>
+        <item>Protective Service</item>
+        <item>Food Preparation and Serving Related</item>
+        <item>Building and Grounds Cleaning and Maintenance</item>
+        <item>Personal Care and Service</item>
+        <item>Sales and Related</item>
+        <item>Office and Administrative Support</item>
+        <item>Farming, Fishing, and Forestry</item>
+        <item>Construction and Extraction</item>
+        <item>Installation, Maintenance, and Repair</item>
+        <item>Production</item>
+        <item>Transportation and Material Moving</item>
+    </string-array>
+    <string-array name="school_list_search">
+        <item>All Schools</item>
+
+    </string-array>
+
+    <string-array name="india_states">
+        <item>Andhra Pradesh</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Delhi</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pardesh</item>
+        <item>Jammu Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnatka</item>
+        <item>Madhya_Pardesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Orrisa</item>
+        <item>Punjab</item>
+        <item>Rajesthan</item>
+        <item>Sikkim</item>
+        <item>Tamilnadu</item>
+        <item>Uttar Pardesh</item>
+        <item>Uttarkhand</item>
+        <item>West Bengal</item>
+    </string-array>
+    <string-array name="blood_group">
+        <item>O−</item>
+        <item>O+</item>
+        <item>A−</item>
+        <item>A+</item>
+        <item>B−</item>
+        <item>B+</item>
+        <item>AB−</item>
+        <item>AB+</item>
+    </string-array>
+    <string-array name="AndhraPradesh">
+        <item>Select School</item>
+        <item>BDL Township, Bhanur, Medak</item>
+        <item>Santoshima Nagar,Neredmet,Ranga Reddy</item>
+        <item>Kanchanbagh,Ranga Reddy</item>
+        <item>Vivekananda Nagar,Kukatpally,Ranga Reddy</item>
+        <item>CCI Township,R.R. Distt,Ranga Reddy</item>
+        <item>R.T.P.P,V.V. Reddy Nagar,Cuddapah</item>
+        <item>Jawahar V.S.P. Township,Madharam,Khammam</item>
+        <item>V.T.P.S. Campus,Ibrahimpatnam,Krishna</item>
+        <item>Jawahar V.S.P. Township,Jaggayyapet,Krishna</item>
+        <item>Ukkunagaram,Visakhapatnam</item>
+        <item>Butchirajupalem,Visakhapatnam</item>
+        <item>Pool Baugh Road,Anakapalle,Visakhapatnam</item>
+        <item>APGENCO,Mothugudem,Khammam</item>
+        <item>APGENCO,UPPER SILERU,Visakhapatnam</item>
+        <item>Srisailam Right Bank,Sundipenta,Kurnool</item>
+        <item>Srisailam West,Left Bank,MahbubNagar</item>
+        <item>Vishnupuram,Nalgonda</item>
+        <item>APGENCO,Puttamgandi,Nalgonda</item>
+        <item>Edala Vardha Rao Rajamundry,East-Godawari</item>
+        <item>PB Old Safilaguda,Secunderabad</item>
+        <item>Near RTC Complex,KOVVURU,West-Godawari</item>
+        <item>Seetha Mahalaxmi Palankonda,Srikakulam</item>
+        <item>Nagarjunasagar,Nalgonda</item>
+        <item>Dr. Nanduri Ramakrishnamacharya Tsunami School</item>
+        <item>Sujatha Nagar,Visakhapatnam</item>
+        <item>APGENCO, Kothagudem,Thermal Power Station,Khammam</item>
+        <item>GMR Varalakshmi Rajam,Srikakulam</item>
+        <item>Zuari Cement Yerraguntla,Kadappa</item>
+        <item>Matrusri Nagar Colony,Miyapur,Hyderabad</item>
+    </string-array>
+    <string-array name="Bihar">
+        <item>Select School</item>
+        <item>Patna-Ara Road,Danapur Area,Ara-Bhojpur</item>
+        <item>P.O. Box No.6,Dayanand Vihar,Aurangabad</item>
+        <item>Daud Nagar,Aurangabad</item>
+        <item>Urvarak Nagar,H.F.C,Begusarai</item>
+        <item>Etwa Nagar,Harrakh Kothi,Begusarai</item>
+        <item>B.R.P.O. Refinery Township,Begusarai</item>
+        <item>Deepti Nagar,NTPC Kahalgaon,Bhagalpur</item>
+        <item>Station Road,Buxar</item>
+        <item>Kotwa Road,East Champaran</item>
+        <item>Cantonment Area,Gaya</item>
+        <item>College Road,Katari Hill Road,Gaya</item>
+        <item>Lakhi Bagh,Manpur,Gaya</item>
+        <item>Sherghati,Gaya</item>
+        <item>SL Rajendra Nagar,Khagaria</item>
+        <item>Darbhanga Road Mirjapur,Muzaffarpur</item>
+        <item>M.T.P.S,Kanti,Muzaffarpur</item>
+        <item>Power Grid Campus,Bihar Sharif,Nalanda</item>
+        <item>Power Grid Campus,Bihar Sharif,Nalanda</item>
+        <item>A/34,Gandhi Vihar,Patna</item>
+        <item>Dr. D. R. Gola Road,Danapur,Patna</item>
+        <item>Patliputra Colony,Patna</item>
+        <item>Cantt. Road,Khagaul,Patna</item>
+        <item>Shastri Nagar,Patna</item>
+        <item>Walmi Complex,Phulwari Sharif,Patna</item>
+        <item>B.S.E.B Colony,New Punaichak,Patna</item>
+        <item>I.G.I.M.S Campus,Sheikhpura,Patna</item>
+        <item>Dr. G. L. Dutta Kankarbagh,Patna</item>
+        <item>Shashimukhi Ram Narayan Chunapur Road,Purnea</item>
+        <item>Hansraj Nagar,Adampur,Rohtas</item>
+        <item>Lajpat Nagar,Katar, Dehri-on-Sone,Rohtas</item>
+        <item>Runnisaidpur,Sitamarhi</item>
+        <item>Nikhil Shyama P.O. Dumra,Sitamarhi</item>
+        <item>Kabir Math,Kandhwara,Siwan</item>
+        <item>(Kameshwar Nagar),Chuna Bhatti,Darbhanga</item>
+        <item>S.R. Pupri,Sitamarhi</item>
+        <item>Police line Road,Bhagalpur</item>
+        <item>Pasauli,Kaimur</item>
+        <item>S.P. Arya,Biharsharif,Nalanda</item>
+        <item>Dhangawan, Senior Branch,Jehanabad</item>
+        <item>Ratwar,Via Mohania,Bhabua</item>
+        <item>Nabi Nagar,Aurangabad</item>
+        <item>Mathura Pur,Shiv Narayan Pur,Bhagalpur</item>
+        <item>Dhamana kothi,Ashok town,Jamui</item>
+        <item>Lakhi Sarai</item>
+        <item>Purvi Sarai,Gaushala Road,Munger</item>
+        <item>Mohanpur Road,Senior Branch,Samastipur</item>
+        <item>Jhanjarpur,Madhubani</item>
+        <item>Near Ram Ratan Singh College,Patna</item>
+        <item>Dalmianagar,Dehri-on-sone,Rohtas</item>
+        <item>Narahan Panapur,East Champaran</item>
+        <item>B.S. Mill Road,Ara-Bhojpur</item>
+        <item>Uma Shankar Champa Devi Maharajganj,Siwan</item>
+        <item>Thawe,Gopalganj</item>
+        <item>Narkatiaganj,Narkatiaganj</item>
+        <item>Bikramganj, Rohtas</item>
+        <item>Nayatola Keshopur, Jamalpur, Munger</item>
+        <item>SCS  Haveli Kharagpur, Munger</item>
+        <item>Madhepur, Madhubani, Bihar</item>
+    </string-array>
+    <string-array name="Chandigarh">
+        <item>Select School</item>
+        <item>Sector-15 A</item>
+        <item>C.L. Aggarwal Dayanand Model School</item>
+        <item>Kailash Bahl DAV Cent</item>
+        <item>Sector-8 C,Chandigarh</item>
+        <item>DAV College, Sector-10</item>
+        <item>MCM DAV College, Sector-36A</item>
+    </string-array>
+    <string-array name="Chttisgarh">
+        <item>Select School</item>
+        <item>SECL,Bartunga,Korea</item>
+        <item>Vasant Vihar,SECL (PO),Bilaspur</item>
+        <item>SECL Gevra Project,Korba</item>
+        <item>SECL, Adarsh Nagar, Kusmunda Project,Korba</item>
+        <item>Deposite - 5,Bacheli(B.I.O.P.),Dantewada</item>
+        <item>Deposit No-14,. NMDC,Kirandul,Dantewada</item>
+        <item>Amdi Nagar,HUDCO,Durg</item>
+        <item>ACC Jamul,Durg</item>
+        <item>SECL,Chaal,Raigarh</item>
+        <item>Tata Sonadih,P.O. Raseda,Raipur</item>
+        <item>SECL,Bishrampur,Surguja</item>
+        <item>Bhatgaon,SECL,Surguja</item>
+        <item>Lions Akaltara,Champa,Janjir</item>
+        <item>Monnet Mandir Hasoud,Raipur,Raipur</item>
+        <item>SECL, Korba,Korba</item>
+        <item>Nandini Mines,Durg</item>
+        <item>Pandavpara,Korea</item>
+    </string-array>
+    <string-array name="Delhi">
+        <item>Select School</item>
+        <item>Phase-III,Ashok Vihar</item>
+        <item>Phase - IV,Ashok Vihar</item>
+        <item>Shaheed Rajpal Dayanand Vihar</item>
+        <item>Model Town-III, Model Town</item>
+        <item>Kailash Hills,East of Kailash</item>
+        <item>A-Block, Chander Nagar,Janak Puri</item>
+        <item>Jhandewalan,Karol Bagh</item>
+        <item>Khera Khurd</item>
+        <item>Dayanand Model School,Mandir Marg</item>
+        <item>SLS Mausam Vihar</item>
+        <item>Paschim Enclave,Mianwali Nagar</item>
+        <item>Safiabad Road, Narela</item>
+        <item>M. L. Khanna Sector VI,Palam</item>
+        <item>Jhabbhan Lal J-Block,Paschim Vihar</item>
+        <item>Reserve Bank Enclave,Paschim Vihar</item>
+        <item>Darbari Lal DAV,Pitampura</item>
+        <item>Pushpanjali Enclave,Pitampura</item>
+        <item>Punjabi Bagh</item>
+        <item>B-6, Sector-7,Rohini</item>
+        <item>Plot No. 3,Pocket - 6,Jasola Vihar</item>
+        <item>Darbari Lal, B.N. Block,Shalimar Bagh</item>
+        <item>Sreshtha Vihar</item>
+        <item>Sector-B ,Pkt.-I,Vasant Kunj</item>
+        <item>Suraj Bhan,F-10/15,Vasant Vihar</item>
+        <item>Veda Vyasa D-Block, Bodela,Vikaspuri</item>
+        <item>West Patel Nagar</item>
+        <item>PoEast of Loni Road,Yamuna Vihar</item>
+        <item>G-Block, Phase I,Ashok Vihar</item>
+        <item>Ishwar Colony,Bawana</item>
+        <item>G-Block, Phase-I,Ashok Vihar</item>
+        <item>Masjit Moth,Near Arya Samaj</item>
+        <item>Ch. Jaswant Lal DAV Model School, Punjabi Bagh</item>
+        <item>Sector-IC, R. K. Puram, Delhi-110022</item>
+        <item>Hans Raj College, Malkaganj</item>
+        <item>PG DAV College, Nehru Nagar</item>
+        <item>PG DAV College (Evening), Nehru Nagar</item>
+    </string-array>
+    <string-array name="Gujarat">
+        <item>Select School</item>
+        <item>G.S.C.L. Campus, SidheeGram, Veraval, Junagarh</item>
+        <item>Nana Kapaya, PO. Kapaya Mundra, Kutch</item>
+        <item>Navi Dudhai, Talika Bhachau, Kutch</item>
+        <item>Sarkhej - Gandhi nagar Highways, Ahmedabad</item>
+    </string-array>
+    <string-array name="Haryana">
+        <item>Select School</item>
+        <item>Meham Road, Bhiwani</item>
+        <item>Urban Estate, Jind</item>
+        <item>Jind Road, Narwana</item>
+        <item>Khansar Chowk, Dharam Garh Road, Safidon</item>
+        <item>Bhera, Teh. Siwani, Bhiwani</item>
+        <item>53, Napier Road, Ambala Cantt</item>
+        <item>Near Jagadhari Gate, Ambala City</item>
+        <item>Barara, Ambala City</item>
+        <item>Naraingarh, Ambala City</item>
+        <item>Police Ground, Ambala City</item>
+        <item>Kanshi Nagar, Model Town, Ambala City</item>
+        <item>Sector - 8,Panchkula</item>
+        <item>Sector-11, Panchkula</item>
+        <item>B C W, Surajpur, Panchkula</item>
+        <item>Sector -6, Panchkula</item>
+        <item>Bighar Road, Fatehabad</item>
+        <item>Dangra Road, Tohana, Distt. Fatehabad</item>
+        <item>Jakhal Mandi, Fatehabad</item>
+        <item>Hansi, Hisar</item>
+        <item>Sector - 14, Hissar</item>
+        <item>D.N. College Road, Hissar</item>
+        <item>Indri Road Karnal</item>
+        <item>Nilokheri, Karnal</item>
+        <item>Nigdhu, Karnal</item>
+        <item>Thermal Colony, Panipat</item>
+        <item>Sec-11-12, Phase II, HUDA, Panipat</item>
+        <item>Chulkana Road, Samalkha Mandi, Panipat</item>
+        <item>Chautala Road, Mandi Dabwali, Sirsa</item>
+        <item>Barnala Road, Sirsa</item>
+        <item>Kalanwali, Sirsa,</item>
+        <item>Rania, Sirsa</item>
+        <item>Sadhaura, Yamuna Nagar</item>
+        <item>Radaur, Yamuna Nagar</item>
+        <item>Professor Colony, Yamuna Nagar</item>
+        <item>Salwan Road, Asandh, Karnal</item>
+        <item>Sec - 14, Urban Estate,Gurgoan</item>
+        <item>Haily Mandi, Teh. Patuadi, Gurgoan</item>
+        <item>Sector-VI, Bahadurgarh, Jhajjar</item>
+        <item>Kosli, Rewari</item>
+        <item>Cheeka, Kaithal</item>
+        <item>O.S. Kaithal</item>
+        <item>Pundri, Kaithal</item>
+        <item>Main Road ,Siwan, Kaithal</item>
+        <item>Ismailabad, Kurukshetra</item>
+        <item>Sector -3,Urban Estate, Kurukshetra</item>
+        <item>T. Plot, Near Gurudwara, Khara Farm, Lukhi</item>
+        <item>Pehowa, Kurukshetra</item>
+        <item>Shahabad Markanda, Urban Estate, Kurukshetra</item>
+        <item>Opp. Milk Plant, Ballabgarh</item>
+        <item>Sainik Colony, Sector - 49, Faridabad</item>
+        <item>Sector - 14, Faridabad</item>
+        <item>NH-3, NIT, Faridabad</item>
+        <item>62/4, Mathura Road, Palwal, Faridabad</item>
+        <item>Arya Samaj Mandir, Manjhawali Morh, Tigaon</item>
+        <item>Sector - 37, Faridabad</item>
+        <item>Kanina, Mohindergarh</item>
+        <item>Mohindergarh</item>
+        <item>Narnaul, Mohindergarh</item>
+        <item>Delhi Road, Rohtak</item>
+        <item>Kalanaur, Rohtak</item>
+        <item>Sector - 15, Sonepat</item>
+        <item>Ganaur, Sonepat</item>
+        <item>Sector -9, Karnal</item>
+        <item>Ratia,Fatehabad</item>
+        <item>New Police Lines, Hissar</item>
+        <item>Sector - 13, Urban Estate, Karnal</item>
+        <item>Dayanand College, Hisar</item>
+        <item>DAV College, Jagadhari Gate</item>
+        <item>DAV College, Sadhaura</item>
+        <item>DAV College, Pundri</item>
+    </string-array>
+    <string-array name="Himachal_Pardesh">
+        <item>Select School</item>
+        <item>Rekong Peo,Kinnaur</item>
+        <item>Chopal,Shimla</item>
+        <item>Kotkhai,Shimla</item>
+        <item>Rampur Bushahr,Shimla</item>
+        <item>Phase-II, Sector-IV,Below BCS,Shimla</item>
+        <item>Saraswati Nagar,Teh. Jubbal,Shimla</item>
+        <item>Theog,Shimla</item>
+        <item>Shogi,Shimla</item>
+        <item>Lakkar Bazar,Shimla</item>
+        <item>Kumar Sain,Shimla</item>
+        <item>The Mall,Shimla</item>
+        <item>New Totu,Shimla</item>
+        <item>Arya Samaj Bhawan,Ranital,Sirmour</item>
+        <item>Paonta Sahib,Sirmour</item>
+        <item>Sarahan,Sirmour</item>
+        <item>Rajgarh,Sirmour</item>
+        <item>ByePass Road,Solan</item>
+        <item>Darlaghat,Solan</item>
+        <item>Parwanoo,Solan</item>
+        <item>Kumarhatti,Dharampur,Solan</item>
+        <item>P.O. Barmana,Billaspur</item>
+        <item>Billaspur</item>
+        <item>Ghumarwin,Billaspur</item>
+        <item>Barmana,Billaspur</item>
+        <item>Manali,Kullu</item>
+        <item>PO : Samshi,Kullu</item>
+        <item>Jawahar Nagar,Mandi</item>
+        <item>Sunder Nagar,Mandi</item>
+        <item>Greyoh,P.O. Kango-ka-Gehra,Mandi</item>
+        <item>Hamirpur</item>
+        <item>T.R. Kangoo,Teh. Nadaun,Hamirpur</item>
+        <item>Nadaun, Bharoli,Hamirpur</item>
+        <item>Alampur,Kangra</item>
+        <item>Palampur,Kangra</item>
+        <item>Ambota,Tehsil Ambota,Una</item>
+        <item>Una</item>
+        <item>Lathiani,Tehsil. Bangana,Una</item>
+        <item>Chamba</item>
+        <item>Bharmour,Chamba</item>
+        <item>Baghni,Nurpur,Kangra</item>
+        <item>Dehra,Gopipur,Kangra</item>
+        <item>Teh. Shahpur,Kangra</item>
+        <item>Bhagirath Dass Brij Lal Road,Kangra</item>
+        <item>Manai,Tehsil. Harchakian,Kangra</item>
+        <item>Rehan,Teh. Nurpur,Kangra</item>
+        <item>Tiara,Kangra</item>
+        <item>Nagrota,Surian,Kangra</item>
+        <item>Narwana Yol,Kangra</item>
+        <item>Bankhandi,Dehra Gopipur,Kangra</item>
+        <item>M.I.A.Industrial Area,Mehatpur,Una</item>
+        <item>Ner Chowk,Mandi</item>
+        <item>Jamthal,Bilaspur</item>
+        <item>MCM DAV College, Kangar</item>
+        <item>DAV Cent College Kotkhai, Shimla</item>
+        <item> Banikhet, Chamba</item>
+        <item>MN DAV Cent. Dental College, Solan</item>
+    </string-array>
+    <string-array name="Jammu_Kashmir">
+        <item>Select School</item>
+        <item>Akhnoor</item>
+        <item>Chogam Slathian</item>
+        <item>Nagbani, P.O. Duman</item>
+        <item>Geeta Bhawan, Poonch</item>
+        <item>Near Petrol Pump, R.S. Pura</item>
+    </string-array>
+    <string-array name="Jharkhand">
+        <item>Select School</item>
+        <item>Sector-IV, Bokaro Steel City, Bokaro</item>
+        <item>Central Colony,Dhori,Bokaro</item>
+        <item>Central Coalfields Ltd.,Kathara,Bokaro</item>
+        <item>T.T.P.S.,Lalpania,Bokaro</item>
+        <item>P.O. Sawang Colliery,Bokaro</item>
+        <item>BRL BRL,Bhandaridah,Bokaro</item>
+        <item>Alkusa Colliery,BCCL,Dhanbad</item>
+        <item>Baniahir (Lodna),Jharia,Dhanbad</item>
+        <item>Barora,BCCL,Dhanbad</item>
+        <item>CFRI,Digwadih,Dhanbad</item>
+        <item>TATA Jamadoba,TISCO,Dhanbad</item>
+        <item>Kusunda Colliery,CCL,Dhanbad</item>
+        <item>Moonidih Project,BCCL,Dhanbad</item>
+        <item>TATA TISCO Sijua,P.O. Bhelatand,Dhanbad</item>
+        <item>Mahuda,BCCL,Dhanbad</item>
+        <item>Rangamati,Sindri,Dhanbad</item>
+        <item>Bhawanathpur Township,SAIL,Garhwa</item>
+        <item>CCL, Giridih,P.O. Beniadih,Giridih</item>
+        <item>BNS Bulaki Road,Giridih</item>
+        <item>Gumla</item>
+        <item>Ara (Kuju Aera),P. O. Sarubera,Hazaribagh</item>
+        <item>NTS,Barkakana,Hazaribagh</item>
+        <item>Tata TISCO,Chainpur,Hazaribagh</item>
+        <item>TATA W.B.C. - TISCO,P.O. Ghatotand,Hazaribagh</item>
+        <item>Kedla Project,CCL,Hazaribagh</item>
+        <item>Canary Hill Road,Hazaribagh</item>
+        <item>Pipewar Area-CCL,Bachra,Hazaribagh</item>
+        <item>Rajrappa Project,CCL,Hazaribagh</item>
+        <item>Agrasen P.O. Bharech Nagar, Hazaribagh</item>
+        <item>Tapin North,CCL, RAMGARH</item>
+        <item>Urimari (Sayal) Area,CCL,Hazaribagh</item>
+        <item>Topa Colliery,CCL,Hazaribagh</item>
+        <item>PTPS,Patratu,Hazaribagh</item>
+        <item>PVSS Jhumri Telaiya,Koderma</item>
+        <item>Mahangu Bhagat Lohardaga</item>
+        <item>M.K. Chianki,Daltonganj,Palamu</item>
+        <item>ACC Colony,Khalari,Ranchi</item>
+        <item>Khunti,Ranchi</item>
+        <item>Ashok Nagar,Ranchi</item>
+        <item>Bariatu Road,Ranchi</item>
+        <item>Itki Road,Hehal,Ranchi</item>
+        <item>Kadru,Ranchi</item>
+        <item>Gandhi Nagar,CCL,Ranchi</item>
+        <item>NIT Campus,Adityapur,Saraikella</item>
+        <item>Simdega</item>
+        <item>S.J. Chaibasa,Singhbhum West</item>
+        <item>SAIL,Singhbhum West</item>
+        <item>Gua Ore Mines,SAIL,Singhbhum West</item>
+        <item>ACC,Jhinkpani,Singhbhum West</item>
+        <item>Noamundi, Singhbhum West</item>
+        <item>Koyala Nagar,BCCL,Dhanbad</item>
+        <item>Bistupur,Singhbhum West</item>
+        <item>DUGDA COAL WASHERY DUGDA BOKARO</item>
+        <item>S.P. Mines, Chitra,P.O. Chitra,Deoghar</item>
+        <item>Geeta Devi Castair Town,Deoghar</item>
+        <item>Urja Nagar,(ECL),Godda</item>
+        <item>Bazar Samiti,Gokulpur,Pakur</item>
+        <item>S.D. Jamtara</item>
+        <item>Gidi A-CCL,Argada Area,Hazaribagh</item>
+        <item>NS Goashala Complex,Kanke Raod,Ranchi</item>
+        <item>GT Road,Barhi,Hazaribagh</item>
+        <item>Tenughat Dam,PO Tenughat,Bokaro</item>
+        <item>Rohini,NK Area,Ranchi</item>
+        <item>Singhbhum West</item>
+        <item>Karamtoli Chowk,Ranchi</item>
+        <item>Ulihatu,Ranchi</item>
+        <item>Geeta Devi Junior Castair Town,Deoghar</item>
+        <item>Govinda Ram Kataruka Charity Trsut,Ranchi</item>
+        <item>TCI Govindpur Road,Khunti</item>
+        <item>Banshidhar Parasnath Pharathiya,Garhwa</item>
+        <item>Gaya Road, Bhabne,Chatra</item>
+        <item>Lather</item>
+    </string-array>
+    <string-array name="Karnatka">
+        <item>Select School</item>
+        <item>A.C.C. Township, Wadi, Gulbarga</item>
+        <item>Hospet, Bellary</item>
+        <item>KPCL DAV Public School, Raichur</item>
+    </string-array>
+    <string-array name="Madhya_Pardesh">
+        <item>Select School</item>
+        <item>Amlohri Project, NCL, Sidhi</item>
+        <item>Dudhichua Project, NCL, Sidhi</item>
+        <item>Jhingurda Project, NCL, Sidhi</item>
+        <item>Nigahi Project, NLC, Sidhi</item>
+        <item>Jayant NCL, Sidhi</item>
+        <item>Waidhan, Sidhi</item>
+        <item>Kuteshwar, P.O. Barhi, Katni</item>
+        <item>ACC Kymore, P.O.- Kymore, Katni</item>
+        <item>ACC Katni, Katni</item>
+        <item>Jumuna Prasad Vishvakarma, Katni</item>
+        <item>Majhgawan, Panna</item>
+        <item>Pakaria, Jaitpur Road, Burhar, Shahdol</item>
+        <item>DAV Shapers Public School, Anuppur,</item>
+        <item>Arya Samaj Mandir Campus, Singrauli</item>
+        <item>Bina Refinery Project, Bina</item>
+        <item>Surya Vihar, Waidhan, Singrauli</item>
+    </string-array>
+    <string-array name="Maharashtra">
+        <item>Select School</item>
+        <item>Airoli, Navi Mumbai</item>
+        <item>New Panvel, Navi Mumbai</item>
+        <item>Nerul, Navi Mumbai</item>
+        <item>Taluka, Khalapur, Raigad</item>
+        <item>D.R.B.  Balkum, Pada No. 3, Thane</item>
+        <item>eeljay Colliery Township, Yavatmal</item>
+        <item>Balaji Park, Aundh, Pune</item>
+        <item>Vikas Paradise, LBS Marg, Mulund (W)</item>
+        <item>Kharghar, Navi Mumbai</item>
+        <item>Post Office chowk Mumbai, Lodhivali, Raigad</item>
+        <item>Umroli, Near Shantivan at Panvel, Raigad</item>
+        <item>Chandkhed, Taluka Mawal, Pune</item>
+        <item>Arya Pratinidhi Sabha Sindh, Ulhasnagar</item>
+        <item>Kopar Khairne, Navi Mumbai</item>
+        <item>Station Road, Bhandup, Mumbai</item>
+    </string-array>
+    <string-array name="Manipur">
+        <item>Select School</item>
+        <item>Sangakpham, P. O. Lamlang, Imphal</item>
+    </string-array>
+    <string-array name="Orrisa">
+        <item>Select School</item>
+        <item>Kalinga Area, Talcher, Angul</item>
+        <item>NTPC/TTPS, Talcher Thermal, Angul</item>
+        <item>NTPC/TTPS, Angul</item>
+        <item>M.C.F.L. Jagannath Area, Talcher, Angul</item>
+        <item>N.T.P.C./ T.T.P.S., Angul</item>
+        <item>P.O. Balanda, Telcher, Angul</item>
+        <item>nanta Vihar Colony, Angul</item>
+        <item>Sovarampur,Balasore</item>
+        <item>Titlagarh,Bhatipara,Bolangir</item>
+        <item>Sector - VI,Markat Nagar,Cuttack</item>
+        <item>Srivihar,Tulsipur,Cuttack</item>
+        <item>RajabagichaCuttack</item>
+        <item>Lajpat Rai Mahanadi ViharCuttack</item>
+        <item>Sakthi Sugars Ltd.,Sunapal,Cuttack</item>
+        <item>Gandhi Nagar,Behrampur,Ganjam</item>
+        <item>PPL Township,Jagatsinghpur</item>
+        <item>Bandhabahal,Jharsuguda</item>
+        <item>Thermal Power Station,Jharsuguda</item>
+        <item>IB Valley Area (MCL), Jharsuguda</item>
+        <item>Jharsuguda</item>
+        <item>Unit - VIII,PO Nayapalli,Khurda</item>
+        <item>699, Pokhariput,Old Town,Khurda</item>
+        <item>Chandrasekharpur, Khurda</item>
+        <item>Kalinga Nagar,Ghatikia,Bhubaneswar</item>
+        <item>Water Works RoadPuri</item>
+        <item>M.C.L.,Anand Vihar,Sambalpur</item>
+        <item>Near Basanti Colony,Rourkela,Sundergarh</item>
+        <item>Mahanadi Coalfields Ltd., Sundergarh</item>
+        <item>Vedant Township,Langigarh,Kala Handi</item>
+        <item>Hill Top Colony,OCP (MCL),harsuguda</item>
+        <item>Pradeep Phosphates Ltd.Jagatsinghpur</item>
+        <item>IFFCO TownshipParadeep,Jagatsinghpur</item>
+        <item>NimaparaPuri</item>
+        <item>Bursua, Iron-Mines SAIL,Sundergarh</item>
+        <item>Old Hostel RoadNayagarh</item>
+        <item>Joda-TISCO Township, Keonjhar</item>
+        <item>APGENCO,Onukudelli</item>
+        <item>Kansbahal Works, Sundergarh</item>
+        <item>Bolani Ores Mines, SAILKeonjhar</item>
+        <item>Vedanta University ProjectPuri</item>
+        <item>Jaleswar</item>
+    </string-array>
+    <string-array name="Punjab">
+        <item>Select School</item>
+        <item>Abohar Ferozepur</item>
+        <item>Ferozepur Cantt., Ferozepur</item>
+        <item>Malwal Road,Ferozepur City Ferozepur</item>
+        <item>Faridkot Raod,Guru Har Sahai Ferozepur</item>
+        <item>Tehsil Abohar, Haripura Ferozepur</item>
+        <item>Railway Road,Jalalabad (W) Ferozepur</item>
+        <item>Talwandi Bhai, Ferozepur</item>
+        <item>xGT Road,Atta (Goraya),Jalandhar</item>
+        <item>Dayanand Nagar,Jalandhar</item>
+        <item>Nakodar,Jalandhar</item>
+        <item>Phillaur,Jalandhar</item>
+        <item>Jalandhar Cantt,Jalandhar</item>
+        <item>Bilga,Jalandhar</item>
+        <item>LKabir Nagar,Gali No. - 4,Jalandhar</item>
+        <item>Model Town,Jalandhar</item>
+        <item>Yaseen Road,Amritsar</item>
+        <item>Lawrence Road,Amritsar</item>
+        <item>Khemkaran Road,Bhikhiwind,Amritsar</item>
+        <item>Neshta,Attari,Amritsar</item>
+        <item>Bye Pass Road,Verka Chowk,Amritsar</item>
+        <item>Chander Nagar,Batala,Gurdaspur</item>
+        <item>Khajuri Gate,Batala,Gurdaspur</item>
+        <item>Mission Road, Pathankot</item>
+        <item>Qudian College Road,Qudian,Gurdaspur</item>
+        <item>Behri,Via Dina Nagar,Gurdaspur</item>
+        <item>Jhula Mohala,Gurdaspur</item>
+        <item>Garhdiwala,Hoshiarpur</item>
+        <item>Talwara Township,Sector-2,Hoshiarpur</item>
+        <item>Dasuya,Hoshiarpur</item>
+        <item>Dayanand Nagar,Bhatinda</item>
+        <item>Jaitu,Faridkot</item>
+        <item>Kotkapura,Faridkot</item>
+        <item>Water Works Road,Mansa</item>
+        <item>Bareta,Mansa</item>
+        <item>Giddarbaha,Muktsar</item>
+        <item>Tehsil Road,Malout,Muktsar</item>
+        <item>Chanarthal Khurd,Fatehagarh Sahib</item>
+        <item>Dera Bassi,Patiala</item>
+        <item>Nabha,Patiala</item>
+        <item>Block-C, BRS Nagar, Ludhiana</item>
+        <item>Badshahpur, Patiala (Punjab)</item>
+        <item>Mamdot, Ferozepur</item>
+        <item>Jalandhar, Punjab</item>
+        <item>Mahatma Hans Raj Marg</item>
+        <item>KRM DAV College, Nakodar</item>
+        <item>Kartar Sher Singh, Amritsar</item>
+        <item>Lawrence Road, Amritsar</item>
+        <item>Batala, Gurdaspur</item>
+        <item>Phillaur, Jalandhar</item>
+        <item>Jagraon</item>
+        <item>JC DAV College, Dasuya</item>
+        <item>Maharishi Dayanand Marg, Abohar</item>
+        <item>Maharishi Dayanand Marg, Abohar</item>
+        <item>Dayanand Nagar, Bathinda</item>
+        <item>Malout, Muktsar</item>
+        <item> Giddarbaha, Muktsar</item>
+        <item>Ferozepur Cantt</item>
+        <item>College Jalalabad</item>
+        <item>Batala, Gurdaspur</item>
+        <item>ML Uppal DAV College, Kapurthala</item>
+        <item>DAV Engg_Technology, Jalandhar</item>
+        <item>DAV Physiotherapy, Jalandhar</item>
+        <item>DAV Nursing ,Jalandhar City</item>
+        <item>DAV College, Amritsar</item>
+    </string-array>Geeta Devi Castair Town
+    <string-array name="Rajesthan">
+        <item>Select School</item>
+        <item>Near Sabji Mandi, Behror, Alwar</item>
+        <item>Lakheri,Bundi</item>
+        <item>Tibbi Road, Hanumangarh</item>
+        <item>Vaishali Nagar, Jaipur</item>
+        <item>Talwandi, Kota</item>
+        <item>Similia, Kota</item>
+        <item>Morak,Kota</item>
+        <item>Sri Ganganagar</item>
+        <item>Suratgarh Town, Sri Ganganagar</item>
+        <item>Teh. Pindwara, Sirohi</item>
+        <item>Paneri Upvan,Bedla Road,Udaipur</item>
+        <item>STPS Town Ship,Sri Ganganagar</item>
+        <item>Adarsh Nagar,Nasirabad Road,Ajmer</item>
+        <item>Rajpura Dariba Mines,Udaipur</item>
+        <item>Ramganj, Beawer Road, Ajmer</item>
+        <item>Jiya Lal College of Education</item>
+    </string-array>
+    <string-array name="Sikkim">
+        <item>Select School</item>
+        <item>P. O. Legship, Rangit Nagar</item>
+    </string-array>
+    <string-array name="Tamilnadu">
+        <item>Select School</item>
+        <item>Seetharam Nagar, Velachary, Chennai</item>
+    </string-array>
+    <string-array name="Uttar_Pardesh">
+        <item>Select School</item>
+        <item>Kumarganj, Ambedkar Nagar, Faizabad</item>
+        <item>Gail UPPC Nagar, Dibiyapur, Auraiya</item>
+        <item>Babrala, Badaun</item>
+        <item>Meerut Road, Bagpat</item>
+        <item>BEL Colony, Brij Vihar, Ghaziabad</item>
+        <item>Chander Nagar, Ghaziabad</item>
+        <item>Pratap Vihar, New Vijay Nagar, Ghaziabad</item>
+        <item>Sahibabad, Ghaziabad</item>
+        <item>Delhi Road,Ghaziabad</item>
+        <item>Indian Oil Complex,Gautam Budh Nagar</item>
+        <item>Pilakhuwa,Ghaziabad</item>
+        <item>Vidyut Nagar,Gautam Budh Nagar</item>
+        <item>L-Block,Shastri Nagar,Meerut</item>
+        <item>Circular Road,MuzzafarNagar</item>
+        <item>Unchahar,Rai Bareilly</item>
+        <item>Gangoh,Saharanpur</item>
+        <item>Jain Degree College Road,Saharanpur</item>
+        <item>Tanda Town Ship,Ambedkar Nagar</item>
+        <item>Anpara Thermal Project,Sonebhadra</item>
+        <item>Bina (NCL) Project,Sonebhadra</item>
+        <item>Khadia NCL,Shakti Nagar,Sonebhadra</item>
+        <item>Parasi,Kakri Project,Sonebhadra</item>
+        <item>NTPC Township,Sonebhadra</item>
+        <item>BrahmNagar,Robertsganj,Sonebhadra</item>
+        <item>Rampur,Maniharan,Saharanpur</item>
+        <item>Khatauli,MuzzafarNagar</item>
+        <item>Mansurpur,MuzzafarNagar</item>
+        <item>Behat Road,Saharanpur</item>
+        <item>Ram Nagar, Varanasi</item>
+    </string-array>
+    <string-array name="Uttarkhand">
+        <item>Select School</item>
+        <item>DehradunMrs. Sarika M. Bembeyz</item>
+        <item>Laksar Road, Kankhal</item>
+        <item>Haldwani, Nainital</item>
+        <item>Kotdwar, PauriGarwal</item>
+        <item>Kashipur, Udham Singh Nagar</item>
+        <item>Rudrapur, Udham Singh Nagar</item>
+        <item>Udhamsingh Nagar</item>
+        <item>Bhupatwala, Haridwar</item>
+    </string-array>
+    <string-array name="West_Bengal">
+        <item>Select School</item>
+        <item>Damodar Cements, Madhukunda</item>
+        <item>DSK  Wilcox Road, Simolia, Puralia</item>
+        <item>PO - Durlavpur, Bankura</item>
+        <item>Durgapur, Burdwan</item>
+        <item>Rupnarainpur, Burdwan</item>
+        <item>Pandaveswar Area, Burdwan</item>
+        <item>P.O. Egara, Burdwan</item>
+        <item>P.O. - Raniganj</item>
+        <item>By-Pass Road, Asansol, Burdwan</item>
+        <item>Daak Bunglow Road, Midnapore</item>
+        <item>Kharagpur, Midnapore</item>
+        <item>PO: Pubarn, Malda</item>
+        <item>Dubrajpur, Birbhum</item>
+        <item>NH-60, Bankura</item>
+        <item>Balurghat, Dakshin Dinajpur</item>
+        <item>Barrackpore, Kolkata</item>
+    </string-array>
+    <!--    <string name="subscription_period_prompt">Select your subscription period</string>
+        <string name="subscription_resignup_prompt">To reactivate your subscription, select your subscription period</string>
+        <string name="subscription_update_prompt">To change your subscription, select your new subscription period</string>
+        <string name="subscription_period_monthly">Monthly</string>
+        <string name="subscription_period_yearly">Yearly</string>
+        <string name="subscription_prompt_continue">Continue</string>
+        <string name="subscription_prompt_cancel">Cancel</string>-->
+    <string name="content_description_app_loading_image">App loading image</string>
+    <!--<string name="content_desc_free_vs_premium_indicator">Free or Premium Image Indicator</string>-->
+</resources>

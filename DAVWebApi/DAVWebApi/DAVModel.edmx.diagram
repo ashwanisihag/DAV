@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="56a28ad1b1b54c53ada4ecced38011d0" Name="Diagram1">
+        <EntityTypeShape EntityType="DAVModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.AspNetRole" Width="1.5" PointX="0.75" PointY="19.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.AspNetUserClaim" Width="1.5" PointX="5.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.AspNetUserLogin" Width="1.5" PointX="5.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.AspNetUser" Width="1.5" PointX="3" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.AspNetUsersRegistring" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_Alerts" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_BackGroundCheck" Width="1.5" PointX="5.25" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_BusinessDirectory" Width="1.5" PointX="5.25" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_City" Width="1.5" PointX="10" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_DeviceIds" Width="1.5" PointX="5.25" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_Jobs" Width="1.5" PointX="5.25" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_Log" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_News" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_PartyStatus" Width="1.5" PointX="5.25" PointY="20.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_Photo" Width="1.5" PointX="5.25" PointY="23.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_Profession" Width="1.5" PointX="9.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_Rating" Width="1.5" PointX="5.25" PointY="26.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_Requirements" Width="1.5" PointX="5.25" PointY="28.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_State" Width="1.5" PointX="7.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_UserAlbum" Width="1.5" PointX="5.25" PointY="32.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_UserMessages" Width="1.5" PointX="5.25" PointY="35.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAVModel.tbl_Version" Width="1.5" PointX="7.75" PointY="9.75" IsExpanded="true" />
+        <AssociationConnector Association="DAVModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_BackGroundCheck_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_BusinessDirectory_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_DeviceIds_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_Jobs_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_PartyStatus_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_Photo_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_Rating_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_Requirements_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_UserAlbum_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_UserMessages_AspNetUsers" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.FK_tbl_City_tbl_State" ManuallyRouted="false" />
+        <AssociationConnector Association="DAVModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
